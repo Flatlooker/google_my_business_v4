@@ -12,9 +12,9 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-require 'google/apis/mybusiness_v4/service.rb'
-require 'google/apis/mybusiness_v4/classes.rb'
-require 'google/apis/mybusiness_v4/representations.rb'
+require 'google_my_business_v4/service'
+require 'google_my_business_v4/classes'
+require 'google_my_business_v4/representations'
 
 module Google
   module Apis
